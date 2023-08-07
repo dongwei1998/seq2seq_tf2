@@ -1,0 +1,456 @@
+2022-05-23 09:43:49|INFO|train.py[:29]|Start loading data ...
+2022-05-23 09:43:49|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.010001 s
+2022-05-23 09:43:49|INFO|train.py[:37]|Loading text processor...
+2022-05-23 09:43:59|INFO|train.py[:73]|epoch 1, batch 1, loss:4.4678
+2022-05-23 09:44:02|INFO|train.py[:73]|epoch 1, batch 2, loss:4.5929
+2022-05-23 09:44:05|INFO|train.py[:73]|epoch 1, batch 3, loss:4.7101
+2022-05-23 09:44:08|INFO|train.py[:73]|epoch 1, batch 4, loss:4.6283
+2022-05-23 09:44:11|INFO|train.py[:73]|epoch 1, batch 5, loss:4.5762
+2022-05-23 09:44:14|INFO|train.py[:73]|epoch 1, batch 6, loss:4.6005
+2022-05-23 09:44:17|INFO|train.py[:73]|epoch 1, batch 7, loss:4.5054
+2022-05-23 09:44:20|INFO|train.py[:73]|epoch 1, batch 8, loss:4.3402
+2022-05-23 09:44:22|INFO|train.py[:73]|epoch 1, batch 9, loss:4.1779
+2022-05-23 09:44:25|INFO|train.py[:73]|epoch 1, batch 10, loss:3.9356
+2022-05-23 09:44:28|INFO|train.py[:73]|epoch 1, batch 11, loss:3.4674
+2022-05-23 09:44:31|INFO|train.py[:73]|epoch 1, batch 12, loss:3.6740
+2022-05-23 09:44:34|INFO|train.py[:73]|epoch 1, batch 13, loss:3.4396
+2022-05-23 09:44:37|INFO|train.py[:73]|epoch 1, batch 14, loss:3.0133
+2022-05-23 09:44:40|INFO|train.py[:73]|epoch 1, batch 15, loss:3.1324
+2022-05-23 09:44:43|INFO|train.py[:73]|epoch 1, batch 16, loss:3.1002
+2022-05-23 09:44:46|INFO|train.py[:73]|epoch 1, batch 17, loss:3.3245
+2022-05-23 09:44:49|INFO|train.py[:73]|epoch 1, batch 18, loss:2.9932
+2022-05-23 09:44:52|INFO|train.py[:73]|epoch 1, batch 19, loss:2.8329
+2022-05-23 09:44:55|INFO|train.py[:73]|epoch 1, batch 20, loss:2.8334
+2022-05-23 09:44:57|INFO|train.py[:73]|epoch 1, batch 21, loss:2.7489
+2022-05-23 09:45:00|INFO|train.py[:73]|epoch 1, batch 22, loss:2.7925
+2022-05-23 09:45:03|INFO|train.py[:73]|epoch 1, batch 23, loss:3.0017
+2022-05-23 09:45:05|INFO|train.py[:73]|epoch 1, batch 24, loss:2.7871
+2022-05-23 09:45:08|INFO|train.py[:73]|epoch 1, batch 25, loss:2.7611
+2022-05-23 09:45:11|INFO|train.py[:73]|epoch 1, batch 26, loss:2.6544
+2022-05-23 09:45:14|INFO|train.py[:73]|epoch 1, batch 27, loss:3.1946
+2022-05-23 09:45:16|INFO|train.py[:73]|epoch 1, batch 28, loss:2.9371
+2022-05-23 09:45:19|INFO|train.py[:73]|epoch 1, batch 29, loss:2.8540
+2022-05-23 09:45:22|INFO|train.py[:73]|epoch 1, batch 30, loss:2.8665
+2022-05-23 09:45:25|INFO|train.py[:73]|epoch 1, batch 31, loss:2.6146
+2022-05-23 09:45:28|INFO|train.py[:73]|epoch 1, batch 32, loss:2.8987
+2022-05-23 09:45:30|INFO|train.py[:73]|epoch 1, batch 33, loss:3.0018
+2022-05-23 09:45:33|INFO|train.py[:73]|epoch 1, batch 34, loss:2.7343
+2022-05-23 09:45:36|INFO|train.py[:73]|epoch 1, batch 35, loss:2.7041
+2022-05-23 09:45:39|INFO|train.py[:73]|epoch 1, batch 36, loss:2.8218
+2022-05-23 09:45:41|INFO|train.py[:73]|epoch 1, batch 37, loss:2.7502
+2022-05-23 09:45:44|INFO|train.py[:73]|epoch 1, batch 38, loss:2.5463
+2022-05-23 09:45:47|INFO|train.py[:73]|epoch 1, batch 39, loss:3.0726
+2022-05-23 09:45:49|INFO|train.py[:73]|epoch 1, batch 40, loss:2.6439
+2022-05-23 09:45:52|INFO|train.py[:73]|epoch 1, batch 41, loss:2.6098
+2022-05-23 09:45:55|INFO|train.py[:73]|epoch 1, batch 42, loss:2.5832
+2022-05-23 09:45:58|INFO|train.py[:73]|epoch 1, batch 43, loss:2.7042
+2022-05-23 09:46:00|INFO|train.py[:73]|epoch 1, batch 44, loss:2.9450
+2022-05-23 09:46:03|INFO|train.py[:73]|epoch 1, batch 45, loss:2.6150
+2022-05-23 09:46:06|INFO|train.py[:73]|epoch 1, batch 46, loss:2.6347
+2022-05-23 09:46:08|INFO|train.py[:73]|epoch 1, batch 47, loss:2.9983
+2022-05-23 09:46:11|INFO|train.py[:73]|epoch 1, batch 48, loss:2.6465
+2022-05-23 09:46:14|INFO|train.py[:73]|epoch 1, batch 49, loss:2.5948
+2022-05-23 09:46:16|INFO|train.py[:73]|epoch 1, batch 50, loss:2.4136
+2022-05-23 10:24:22|INFO|train.py[:29]|Start loading data ...
+2022-05-23 10:24:22|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 10:24:22|INFO|train.py[:37]|Loading text processor...
+2022-05-23 10:24:31|INFO|train.py[:76]|epoch 1, batch 1, loss:4.4700
+2022-05-23 10:24:34|INFO|train.py[:76]|epoch 1, batch 2, loss:4.5949
+2022-05-23 10:24:37|INFO|train.py[:76]|epoch 1, batch 3, loss:4.7182
+2022-05-23 10:24:40|INFO|train.py[:76]|epoch 1, batch 4, loss:4.6280
+2022-05-23 10:24:43|INFO|train.py[:76]|epoch 1, batch 5, loss:4.5892
+2022-05-23 10:24:45|INFO|train.py[:76]|epoch 1, batch 6, loss:4.6194
+2022-05-23 10:24:48|INFO|train.py[:76]|epoch 1, batch 7, loss:4.5093
+2022-05-23 10:24:51|INFO|train.py[:76]|epoch 1, batch 8, loss:4.3739
+2022-05-23 10:24:54|INFO|train.py[:76]|epoch 1, batch 9, loss:4.2602
+2022-05-23 10:24:56|INFO|train.py[:76]|epoch 1, batch 10, loss:4.0200
+2022-05-23 10:24:59|INFO|train.py[:76]|epoch 1, batch 11, loss:3.5709
+2022-05-23 10:25:02|INFO|train.py[:76]|epoch 1, batch 12, loss:3.2994
+2022-05-23 10:25:05|INFO|train.py[:76]|epoch 1, batch 13, loss:3.6664
+2022-05-23 10:25:07|INFO|train.py[:76]|epoch 1, batch 14, loss:3.1324
+2022-05-23 10:25:10|INFO|train.py[:76]|epoch 1, batch 15, loss:3.0174
+2022-05-23 10:25:13|INFO|train.py[:76]|epoch 1, batch 16, loss:3.0584
+2022-05-23 10:25:15|INFO|train.py[:76]|epoch 1, batch 17, loss:3.2565
+2022-05-23 10:25:18|INFO|train.py[:76]|epoch 1, batch 18, loss:3.0323
+2022-05-23 10:25:21|INFO|train.py[:76]|epoch 1, batch 19, loss:2.8815
+2022-05-23 10:25:24|INFO|train.py[:76]|epoch 1, batch 20, loss:2.8959
+2022-05-23 10:25:27|INFO|train.py[:76]|epoch 1, batch 21, loss:2.7913
+2022-05-23 10:25:30|INFO|train.py[:76]|epoch 1, batch 22, loss:2.8265
+2022-05-23 10:25:33|INFO|train.py[:76]|epoch 1, batch 23, loss:3.0636
+2022-05-23 10:25:37|INFO|train.py[:76]|epoch 1, batch 24, loss:2.7933
+2022-05-23 10:25:40|INFO|train.py[:76]|epoch 1, batch 25, loss:2.7136
+2022-05-23 10:25:43|INFO|train.py[:76]|epoch 1, batch 26, loss:2.6787
+2022-05-23 10:25:46|INFO|train.py[:76]|epoch 1, batch 27, loss:3.2929
+2022-05-23 10:25:49|INFO|train.py[:76]|epoch 1, batch 28, loss:3.0095
+2022-05-23 10:25:52|INFO|train.py[:76]|epoch 1, batch 29, loss:2.8926
+2022-05-23 10:25:55|INFO|train.py[:76]|epoch 1, batch 30, loss:2.8581
+2022-05-23 10:25:59|INFO|train.py[:76]|epoch 1, batch 31, loss:2.6798
+2022-05-23 10:26:03|INFO|train.py[:76]|epoch 1, batch 32, loss:2.8993
+2022-05-23 10:26:06|INFO|train.py[:76]|epoch 1, batch 33, loss:3.0317
+2022-05-23 10:26:09|INFO|train.py[:76]|epoch 1, batch 34, loss:2.7976
+2022-05-23 10:26:12|INFO|train.py[:76]|epoch 1, batch 35, loss:2.7295
+2022-05-23 10:26:15|INFO|train.py[:76]|epoch 1, batch 36, loss:2.9575
+2022-05-23 10:26:18|INFO|train.py[:76]|epoch 1, batch 37, loss:2.8448
+2022-05-23 10:26:21|INFO|train.py[:76]|epoch 1, batch 38, loss:2.6379
+2022-05-23 10:26:24|INFO|train.py[:76]|epoch 1, batch 39, loss:2.9967
+2022-05-23 10:26:27|INFO|train.py[:76]|epoch 1, batch 40, loss:2.6143
+2022-05-23 10:26:30|INFO|train.py[:76]|epoch 1, batch 41, loss:2.5632
+2022-05-23 10:26:33|INFO|train.py[:76]|epoch 1, batch 42, loss:2.5852
+2022-05-23 10:26:36|INFO|train.py[:76]|epoch 1, batch 43, loss:2.6685
+2022-05-23 10:26:39|INFO|train.py[:76]|epoch 1, batch 44, loss:3.0110
+2022-05-23 10:26:42|INFO|train.py[:76]|epoch 1, batch 45, loss:2.6341
+2022-05-23 10:26:45|INFO|train.py[:76]|epoch 1, batch 46, loss:2.7030
+2022-05-23 10:26:48|INFO|train.py[:76]|epoch 1, batch 47, loss:3.1103
+2022-05-23 10:26:51|INFO|train.py[:76]|epoch 1, batch 48, loss:2.5608
+2022-05-23 10:26:54|INFO|train.py[:76]|epoch 1, batch 49, loss:2.4815
+2022-05-23 10:26:57|INFO|train.py[:76]|epoch 1, batch 50, loss:2.4869
+2022-05-23 10:28:54|INFO|train.py[:29]|Start loading data ...
+2022-05-23 10:28:54|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 10:28:54|INFO|train.py[:37]|Loading text processor...
+2022-05-23 10:31:52|INFO|train.py[:29]|Start loading data ...
+2022-05-23 10:31:52|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.002006 s
+2022-05-23 10:31:52|INFO|train.py[:37]|Loading text processor...
+2022-05-23 10:42:31|INFO|train.py[:29]|Start loading data ...
+2022-05-23 10:42:31|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 10:42:31|INFO|train.py[:37]|Loading text processor...
+2022-05-23 10:42:38|INFO|train.py[:76]|epoch 1, batch 1, loss:4.4697
+2022-05-23 13:56:18|INFO|train.py[:29]|Start loading data ...
+2022-05-23 13:56:18|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001000 s
+2022-05-23 13:56:18|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:05:21|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:05:21|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001011 s
+2022-05-23 14:05:21|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:06:40|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:06:40|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 14:06:40|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:06:49|INFO|train.py[:81]|epoch 1, batch 1, loss:4.4650
+2022-05-23 14:06:52|INFO|train.py[:81]|epoch 1, batch 2, loss:4.5906
+2022-05-23 14:06:55|INFO|train.py[:81]|epoch 1, batch 3, loss:4.7062
+2022-05-23 14:06:57|INFO|train.py[:81]|epoch 1, batch 4, loss:4.6288
+2022-05-23 14:07:00|INFO|train.py[:81]|epoch 1, batch 5, loss:4.5726
+2022-05-23 14:07:03|INFO|train.py[:81]|epoch 1, batch 6, loss:4.5855
+2022-05-23 14:07:05|INFO|train.py[:81]|epoch 1, batch 7, loss:4.4434
+2022-05-23 14:07:08|INFO|train.py[:81]|epoch 1, batch 8, loss:4.2634
+2022-05-23 14:07:11|INFO|train.py[:81]|epoch 1, batch 9, loss:4.0425
+2022-05-23 14:07:14|INFO|train.py[:81]|epoch 1, batch 10, loss:3.7908
+2022-05-23 14:07:17|INFO|train.py[:81]|epoch 1, batch 11, loss:3.1408
+2022-05-23 14:07:19|INFO|train.py[:81]|epoch 1, batch 12, loss:3.9607
+2022-05-23 14:07:22|INFO|train.py[:81]|epoch 1, batch 13, loss:3.8851
+2022-05-23 14:07:25|INFO|train.py[:81]|epoch 1, batch 14, loss:3.1102
+2022-05-23 14:07:28|INFO|train.py[:81]|epoch 1, batch 15, loss:3.1691
+2022-05-23 14:07:31|INFO|train.py[:81]|epoch 1, batch 16, loss:2.9648
+2022-05-23 14:07:33|INFO|train.py[:81]|epoch 1, batch 17, loss:3.3847
+2022-05-23 14:07:36|INFO|train.py[:81]|epoch 1, batch 18, loss:3.0383
+2022-05-23 14:07:39|INFO|train.py[:81]|epoch 1, batch 19, loss:2.9745
+2022-05-23 14:07:42|INFO|train.py[:81]|epoch 1, batch 20, loss:3.1157
+2022-05-23 14:07:44|INFO|train.py[:81]|epoch 1, batch 21, loss:3.0477
+2022-05-23 14:07:47|INFO|train.py[:81]|epoch 1, batch 22, loss:2.8583
+2022-05-23 14:07:50|INFO|train.py[:81]|epoch 1, batch 23, loss:3.0275
+2022-05-23 14:07:53|INFO|train.py[:81]|epoch 1, batch 24, loss:2.7873
+2022-05-23 14:07:55|INFO|train.py[:81]|epoch 1, batch 25, loss:2.7578
+2022-05-23 14:07:58|INFO|train.py[:81]|epoch 1, batch 26, loss:2.7142
+2022-05-23 14:08:01|INFO|train.py[:81]|epoch 1, batch 27, loss:3.4265
+2022-05-23 14:08:03|INFO|train.py[:81]|epoch 1, batch 28, loss:3.1083
+2022-05-23 14:08:06|INFO|train.py[:81]|epoch 1, batch 29, loss:2.9424
+2022-05-23 14:08:09|INFO|train.py[:81]|epoch 1, batch 30, loss:2.8765
+2022-05-23 14:08:12|INFO|train.py[:81]|epoch 1, batch 31, loss:2.6778
+2022-05-23 14:08:15|INFO|train.py[:81]|epoch 1, batch 32, loss:3.0183
+2022-05-23 14:08:18|INFO|train.py[:81]|epoch 1, batch 33, loss:3.0326
+2022-05-23 14:08:20|INFO|train.py[:81]|epoch 1, batch 34, loss:2.7750
+2022-05-23 14:08:23|INFO|train.py[:81]|epoch 1, batch 35, loss:2.7490
+2022-05-23 14:08:26|INFO|train.py[:81]|epoch 1, batch 36, loss:2.9063
+2022-05-23 14:08:29|INFO|train.py[:81]|epoch 1, batch 37, loss:2.8602
+2022-05-23 14:08:31|INFO|train.py[:81]|epoch 1, batch 38, loss:2.7353
+2022-05-23 14:08:34|INFO|train.py[:81]|epoch 1, batch 39, loss:3.0616
+2022-05-23 14:08:37|INFO|train.py[:81]|epoch 1, batch 40, loss:2.7996
+2022-05-23 14:08:39|INFO|train.py[:81]|epoch 1, batch 41, loss:2.7323
+2022-05-23 14:08:42|INFO|train.py[:81]|epoch 1, batch 42, loss:2.6791
+2022-05-23 14:08:45|INFO|train.py[:81]|epoch 1, batch 43, loss:2.7181
+2022-05-23 14:08:47|INFO|train.py[:81]|epoch 1, batch 44, loss:2.9240
+2022-05-23 14:08:50|INFO|train.py[:81]|epoch 1, batch 45, loss:2.7195
+2022-05-23 14:08:53|INFO|train.py[:81]|epoch 1, batch 46, loss:2.8433
+2022-05-23 14:08:55|INFO|train.py[:81]|epoch 1, batch 47, loss:3.1420
+2022-05-23 14:08:58|INFO|train.py[:81]|epoch 1, batch 48, loss:2.5551
+2022-05-23 14:09:01|INFO|train.py[:81]|epoch 1, batch 49, loss:2.5179
+2022-05-23 14:09:03|INFO|train.py[:81]|epoch 1, batch 50, loss:2.4651
+2022-05-23 14:09:03|INFO|train.py[:88]|epoch 1, save model at ./alphamind
+2022-05-23 14:09:06|INFO|train.py[:81]|epoch 1, batch 51, loss:2.6229
+2022-05-23 14:09:09|INFO|train.py[:81]|epoch 1, batch 52, loss:2.5147
+2022-05-23 14:09:11|INFO|train.py[:81]|epoch 1, batch 53, loss:2.5115
+2022-05-23 14:09:14|INFO|train.py[:81]|epoch 1, batch 54, loss:2.6754
+2022-05-23 14:09:17|INFO|train.py[:81]|epoch 1, batch 55, loss:3.0577
+2022-05-23 14:09:20|INFO|train.py[:81]|epoch 1, batch 56, loss:3.1042
+2022-05-23 14:09:34|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:09:34|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000988 s
+2022-05-23 14:09:34|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:09:42|INFO|train.py[:82]|epoch 1, batch 1, loss:4.4674
+2022-05-23 14:09:44|INFO|train.py[:82]|epoch 1, batch 2, loss:4.5904
+2022-05-23 14:09:55|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:09:55|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001094 s
+2022-05-23 14:09:55|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:13:30|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:13:30|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 14:13:30|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:14:03|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:14:03|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001024 s
+2022-05-23 14:14:03|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:14:27|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:14:27|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001514 s
+2022-05-23 14:14:27|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:15:35|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:15:35|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000507 s
+2022-05-23 14:15:35|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:15:37|INFO|train.py[:72]|The new training model from ./alphamind
+2022-05-23 14:15:42|INFO|train.py[:82]|epoch 1, batch 1, loss:4.4662
+2022-05-23 14:15:45|INFO|train.py[:82]|epoch 1, batch 2, loss:4.5892
+2022-05-23 14:15:47|INFO|train.py[:82]|epoch 1, batch 3, loss:4.7097
+2022-05-23 14:15:50|INFO|train.py[:82]|epoch 1, batch 4, loss:4.6239
+2022-05-23 14:15:53|INFO|train.py[:82]|epoch 1, batch 5, loss:4.5769
+2022-05-23 14:15:56|INFO|train.py[:82]|epoch 1, batch 6, loss:4.6069
+2022-05-23 14:16:22|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:16:22|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001013 s
+2022-05-23 14:16:22|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:16:24|INFO|train.py[:72]|The new training model from ./alphamind
+2022-05-23 14:16:35|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:16:35|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.009567 s
+2022-05-23 14:16:35|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:18:30|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:18:30|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001521 s
+2022-05-23 14:18:30|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:21:08|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:21:08|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.002030 s
+2022-05-23 14:21:08|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:21:16|INFO|train.py[:70]|Loading model from ./alphamind
+2022-05-23 14:21:35|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:21:35|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 14:21:35|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:21:57|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:21:57|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001513 s
+2022-05-23 14:21:57|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:23:30|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:23:30|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 14:23:30|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:25:20|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:25:20|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 14:25:20|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:25:22|INFO|train.py[:71]|The new training model from ./alphamind
+2022-05-23 14:25:27|INFO|train.py[:81]|epoch 1, batch 1, loss:4.4692
+2022-05-23 14:25:30|INFO|train.py[:81]|epoch 1, batch 2, loss:4.5899
+2022-05-23 14:25:33|INFO|train.py[:81]|epoch 1, batch 3, loss:4.7066
+2022-05-23 14:25:36|INFO|train.py[:81]|epoch 1, batch 4, loss:4.6247
+2022-05-23 14:25:38|INFO|train.py[:81]|epoch 1, batch 5, loss:4.5937
+2022-05-23 14:25:41|INFO|train.py[:81]|epoch 1, batch 6, loss:4.6110
+2022-05-23 14:25:44|INFO|train.py[:81]|epoch 1, batch 7, loss:4.5200
+2022-05-23 14:26:02|INFO|train.py[:29]|Start loading data ...
+2022-05-23 14:26:02|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000512 s
+2022-05-23 14:26:02|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:26:04|INFO|train.py[:71]|Loading model from ./alphamind
+2022-05-23 14:26:08|INFO|train.py[:81]|epoch 1, batch 1, loss:3.9939
+2022-05-23 14:26:11|INFO|train.py[:81]|epoch 1, batch 2, loss:3.9651
+2022-05-23 14:26:14|INFO|train.py[:81]|epoch 1, batch 3, loss:3.8099
+2022-05-23 14:26:17|INFO|train.py[:81]|epoch 1, batch 4, loss:3.0941
+2022-05-23 14:26:19|INFO|train.py[:81]|epoch 1, batch 5, loss:3.3392
+2022-05-23 14:26:22|INFO|train.py[:81]|epoch 1, batch 6, loss:3.1333
+2022-05-23 14:26:25|INFO|train.py[:81]|epoch 1, batch 7, loss:2.7399
+2022-05-23 14:26:27|INFO|train.py[:81]|epoch 1, batch 8, loss:2.8126
+2022-05-23 14:38:33|INFO|train.py[:29]|Start loading train data ...
+2022-05-23 14:38:33|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000505 s
+2022-05-23 14:38:33|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:38:36|INFO|train.py[:71]|Loading model from ./alphamind
+2022-05-23 14:38:41|INFO|train.py[:81]|epoch 1, batch 1, loss:2.1400
+2022-05-23 14:38:43|INFO|train.py[:81]|epoch 1, batch 2, loss:2.3972
+2022-05-23 14:38:46|INFO|train.py[:81]|epoch 1, batch 3, loss:2.6279
+2022-05-23 14:38:49|INFO|train.py[:81]|epoch 1, batch 4, loss:2.2947
+2022-05-23 14:38:52|INFO|train.py[:81]|epoch 1, batch 5, loss:2.7546
+2022-05-23 14:38:55|INFO|train.py[:81]|epoch 1, batch 6, loss:2.4697
+2022-05-23 14:38:57|INFO|train.py[:81]|epoch 1, batch 7, loss:2.1600
+2022-05-23 14:39:04|INFO|train.py[:29]|Start loading train data ...
+2022-05-23 14:39:04|INFO|train.py[:31]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000509 s
+2022-05-23 14:39:04|INFO|train.py[:37]|Loading text processor...
+2022-05-23 14:39:06|INFO|train.py[:71]|Loading model from ./alphamind
+2022-05-23 14:39:11|INFO|train.py[:81]|epoch 1, batch 1, loss:1.7805
+2022-05-23 14:39:14|INFO|train.py[:81]|epoch 1, batch 2, loss:2.0569
+2022-05-23 14:39:16|INFO|train.py[:81]|epoch 1, batch 3, loss:2.4180
+2022-05-23 14:39:19|INFO|train.py[:81]|epoch 1, batch 4, loss:2.0344
+2022-05-23 14:39:22|INFO|train.py[:81]|epoch 1, batch 5, loss:2.5134
+2022-05-23 14:39:25|INFO|train.py[:81]|epoch 1, batch 6, loss:2.2560
+2022-05-23 14:39:28|INFO|train.py[:81]|epoch 1, batch 7, loss:1.8407
+2022-05-23 14:39:31|INFO|train.py[:81]|epoch 1, batch 8, loss:2.2994
+2022-05-23 14:39:34|INFO|train.py[:81]|epoch 1, batch 9, loss:2.7287
+2022-05-23 14:39:37|INFO|train.py[:81]|epoch 1, batch 10, loss:3.0136
+2022-05-23 14:39:37|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 14:42:41|INFO|train.py[:112]|Env load loss:2.5468
+2022-05-23 14:42:44|INFO|train.py[:81]|epoch 1, batch 11, loss:2.7833
+2022-05-23 14:42:47|INFO|train.py[:81]|epoch 1, batch 12, loss:2.9302
+2022-05-23 14:42:50|INFO|train.py[:81]|epoch 1, batch 13, loss:2.8048
+2022-05-23 14:42:53|INFO|train.py[:81]|epoch 1, batch 14, loss:2.4663
+2022-05-23 14:42:56|INFO|train.py[:81]|epoch 1, batch 15, loss:2.7264
+2022-05-23 14:42:59|INFO|train.py[:81]|epoch 1, batch 16, loss:2.4971
+2022-05-23 14:43:02|INFO|train.py[:81]|epoch 1, batch 17, loss:3.1084
+2022-05-23 14:43:04|INFO|train.py[:81]|epoch 1, batch 18, loss:2.3184
+2022-05-23 14:43:07|INFO|train.py[:81]|epoch 1, batch 19, loss:2.2675
+2022-05-23 14:43:10|INFO|train.py[:81]|epoch 1, batch 20, loss:2.3008
+2022-05-23 14:43:10|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 14:46:22|INFO|train.py[:112]|Env load loss:2.1048
+2022-05-23 14:46:24|INFO|train.py[:81]|epoch 1, batch 21, loss:2.4012
+2022-05-23 14:46:28|INFO|train.py[:81]|epoch 1, batch 22, loss:2.4482
+2022-05-23 14:46:31|INFO|train.py[:81]|epoch 1, batch 23, loss:2.9424
+2022-05-23 14:46:33|INFO|train.py[:81]|epoch 1, batch 24, loss:2.7379
+2022-05-23 14:46:37|INFO|train.py[:81]|epoch 1, batch 25, loss:2.5510
+2022-05-23 14:46:39|INFO|train.py[:81]|epoch 1, batch 26, loss:2.4135
+2022-05-23 14:46:42|INFO|train.py[:81]|epoch 1, batch 27, loss:2.6263
+2022-05-23 14:46:45|INFO|train.py[:81]|epoch 1, batch 28, loss:2.8402
+2022-05-23 14:46:48|INFO|train.py[:81]|epoch 1, batch 29, loss:2.5613
+2022-05-23 14:46:51|INFO|train.py[:81]|epoch 1, batch 30, loss:2.6008
+2022-05-23 14:46:51|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 14:49:59|INFO|train.py[:112]|Env load loss:1.9260
+2022-05-23 14:50:02|INFO|train.py[:81]|epoch 1, batch 31, loss:3.3108
+2022-05-23 14:50:05|INFO|train.py[:81]|epoch 1, batch 32, loss:2.9740
+2022-05-23 14:50:08|INFO|train.py[:81]|epoch 1, batch 33, loss:2.8927
+2022-05-23 14:50:11|INFO|train.py[:81]|epoch 1, batch 34, loss:2.7180
+2022-05-23 14:50:14|INFO|train.py[:81]|epoch 1, batch 35, loss:1.9571
+2022-05-23 14:50:17|INFO|train.py[:81]|epoch 1, batch 36, loss:2.2531
+2022-05-23 14:50:20|INFO|train.py[:81]|epoch 1, batch 37, loss:2.1924
+2022-05-23 14:50:23|INFO|train.py[:81]|epoch 1, batch 38, loss:2.0071
+2022-05-23 14:50:26|INFO|train.py[:81]|epoch 1, batch 39, loss:1.9864
+2022-05-23 14:50:29|INFO|train.py[:81]|epoch 1, batch 40, loss:2.5025
+2022-05-23 14:50:29|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 14:53:38|INFO|train.py[:112]|Env load loss:1.8129
+2022-05-23 14:53:41|INFO|train.py[:81]|epoch 1, batch 41, loss:2.3541
+2022-05-23 14:53:44|INFO|train.py[:81]|epoch 1, batch 42, loss:2.0796
+2022-05-23 14:53:47|INFO|train.py[:81]|epoch 1, batch 43, loss:2.5717
+2022-05-23 14:53:50|INFO|train.py[:81]|epoch 1, batch 44, loss:2.4841
+2022-05-23 14:53:53|INFO|train.py[:81]|epoch 1, batch 45, loss:2.9173
+2022-05-23 14:53:56|INFO|train.py[:81]|epoch 1, batch 46, loss:2.8534
+2022-05-23 14:53:59|INFO|train.py[:81]|epoch 1, batch 47, loss:3.0804
+2022-05-23 14:54:02|INFO|train.py[:81]|epoch 1, batch 48, loss:2.5855
+2022-05-23 14:54:05|INFO|train.py[:81]|epoch 1, batch 49, loss:2.2429
+2022-05-23 14:54:08|INFO|train.py[:81]|epoch 1, batch 50, loss:2.1602
+2022-05-23 14:54:08|INFO|train.py[:87]|epoch 1, save model at ./alphamind
+2022-05-23 14:54:08|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 14:57:08|INFO|train.py[:112]|Env load loss:1.7096
+2022-05-23 14:57:11|INFO|train.py[:81]|epoch 1, batch 51, loss:2.3437
+2022-05-23 14:57:14|INFO|train.py[:81]|epoch 1, batch 52, loss:1.8683
+2022-05-23 14:57:17|INFO|train.py[:81]|epoch 1, batch 53, loss:2.1277
+2022-05-23 14:57:19|INFO|train.py[:81]|epoch 1, batch 54, loss:2.3121
+2022-05-23 14:57:22|INFO|train.py[:81]|epoch 1, batch 55, loss:2.7736
+2022-05-23 14:57:25|INFO|train.py[:81]|epoch 1, batch 56, loss:2.6318
+2022-05-23 14:57:28|INFO|train.py[:81]|epoch 1, batch 57, loss:2.9377
+2022-05-23 14:57:31|INFO|train.py[:81]|epoch 1, batch 58, loss:2.5501
+2022-05-23 14:57:34|INFO|train.py[:81]|epoch 1, batch 59, loss:2.4469
+2022-05-23 14:57:37|INFO|train.py[:81]|epoch 1, batch 60, loss:2.4090
+2022-05-23 14:57:37|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 15:00:36|INFO|train.py[:112]|Env load loss:1.5330
+2022-05-23 15:00:39|INFO|train.py[:81]|epoch 1, batch 61, loss:2.6939
+2022-05-23 15:00:42|INFO|train.py[:81]|epoch 1, batch 62, loss:2.8833
+2022-05-23 15:00:44|INFO|train.py[:81]|epoch 1, batch 63, loss:2.9027
+2022-05-23 15:00:44|INFO|train.py[:93]|epoch 1, batch 63, loss:2.5122
+2022-05-23 15:00:47|INFO|train.py[:81]|epoch 2, batch 64, loss:2.7027
+2022-05-23 15:00:50|INFO|train.py[:81]|epoch 2, batch 65, loss:2.6755
+2022-05-23 15:00:53|INFO|train.py[:81]|epoch 2, batch 66, loss:2.4777
+2022-05-23 15:00:56|INFO|train.py[:81]|epoch 2, batch 67, loss:2.4240
+2022-05-23 15:00:58|INFO|train.py[:81]|epoch 2, batch 68, loss:2.4096
+2022-05-23 15:01:01|INFO|train.py[:81]|epoch 2, batch 69, loss:2.2221
+2022-05-23 15:01:04|INFO|train.py[:81]|epoch 2, batch 70, loss:2.2481
+2022-05-23 15:01:04|INFO|train.py[:101]|Start loading env data ...
+2022-05-23 15:26:09|INFO|train.py[:60]|Start loading train data ...
+2022-05-23 15:26:09|INFO|train.py[:62]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001017 s
+2022-05-23 15:26:09|INFO|train.py[:68]|Loading text processor...
+2022-05-23 15:26:12|INFO|train.py[:106]|Loading model from ./alphamind
+2022-05-23 15:26:17|INFO|train.py[:116]|epoch 1, batch 1, loss:1.9346
+2022-05-23 15:26:20|INFO|train.py[:116]|epoch 1, batch 2, loss:2.3548
+2022-05-23 15:26:23|INFO|train.py[:116]|epoch 1, batch 3, loss:2.3965
+2022-05-23 15:26:26|INFO|train.py[:116]|epoch 1, batch 4, loss:2.1780
+2022-05-23 15:26:29|INFO|train.py[:116]|epoch 1, batch 5, loss:2.3545
+2022-05-23 15:26:31|INFO|train.py[:116]|epoch 1, batch 6, loss:2.2405
+2022-05-23 15:26:34|INFO|train.py[:116]|epoch 1, batch 7, loss:2.1636
+2022-05-23 15:26:37|INFO|train.py[:116]|epoch 1, batch 8, loss:2.1735
+2022-05-23 15:26:40|INFO|train.py[:116]|epoch 1, batch 9, loss:2.4969
+2022-05-23 15:26:43|INFO|train.py[:116]|epoch 1, batch 10, loss:1.9942
+2022-05-23 15:26:43|INFO|train.py[:134]|Start loading env data ...
+2022-05-23 15:26:46|INFO|train.py[:145]|env model batch 1, loss:1.8724
+2022-05-23 15:26:48|INFO|train.py[:145]|env model batch 2, loss:1.8915
+2022-05-23 15:26:51|INFO|train.py[:145]|env model batch 3, loss:1.8973
+2022-05-23 15:26:54|INFO|train.py[:145]|env model batch 4, loss:1.5795
+2022-05-23 15:26:57|INFO|train.py[:145]|env model batch 5, loss:1.6528
+2022-05-23 15:27:00|INFO|train.py[:145]|env model batch 6, loss:1.6110
+2022-05-23 15:27:03|INFO|train.py[:145]|env model batch 7, loss:1.3328
+2022-05-23 15:27:06|INFO|train.py[:145]|env model batch 8, loss:1.3948
+2022-05-23 15:27:09|INFO|train.py[:145]|env model batch 9, loss:1.7057
+2022-05-23 15:27:11|INFO|train.py[:145]|env model batch 10, loss:0.6722
+2022-05-23 15:27:14|INFO|train.py[:145]|env model batch 11, loss:0.8127
+2022-05-23 15:27:17|INFO|train.py[:145]|env model batch 12, loss:1.5398
+2022-05-23 15:27:20|INFO|train.py[:145]|env model batch 13, loss:1.8130
+2022-05-23 15:27:23|INFO|train.py[:145]|env model batch 14, loss:1.6528
+2022-05-23 15:27:26|INFO|train.py[:145]|env model batch 15, loss:2.0499
+2022-05-23 15:27:29|INFO|train.py[:145]|env model batch 16, loss:2.4170
+2022-05-23 15:27:32|INFO|train.py[:145]|env model batch 17, loss:2.3577
+2022-05-23 15:27:35|INFO|train.py[:145]|env model batch 18, loss:2.2620
+2022-05-23 15:27:38|INFO|train.py[:145]|env model batch 19, loss:1.8421
+2022-05-23 15:27:41|INFO|train.py[:145]|env model batch 20, loss:1.9528
+2022-05-23 15:27:44|INFO|train.py[:145]|env model batch 21, loss:1.9178
+2022-05-23 15:27:47|INFO|train.py[:145]|env model batch 22, loss:1.9640
+2022-05-23 15:27:51|INFO|train.py[:145]|env model batch 23, loss:1.9434
+2022-05-23 15:27:53|INFO|train.py[:145]|env model batch 24, loss:2.0641
+2022-05-23 15:27:56|INFO|train.py[:145]|env model batch 25, loss:1.2535
+2022-05-23 15:27:59|INFO|train.py[:145]|env model batch 26, loss:1.2977
+2022-05-23 15:28:02|INFO|train.py[:145]|env model batch 27, loss:1.4550
+2022-05-23 15:28:04|INFO|train.py[:145]|env model batch 28, loss:1.3980
+2022-05-23 15:28:07|INFO|train.py[:145]|env model batch 29, loss:1.5541
+2022-05-23 15:28:10|INFO|train.py[:145]|env model batch 30, loss:2.0122
+2022-05-23 15:28:13|INFO|train.py[:145]|env model batch 31, loss:1.9975
+2022-05-23 15:28:16|INFO|train.py[:145]|env model batch 32, loss:1.8841
+2022-05-23 15:28:18|INFO|train.py[:145]|env model batch 33, loss:2.1155
+2022-05-23 15:28:21|INFO|train.py[:145]|env model batch 34, loss:2.1822
+2022-05-23 15:28:24|INFO|train.py[:145]|env model batch 35, loss:2.1315
+2022-05-23 15:28:27|INFO|train.py[:145]|env model batch 36, loss:2.0538
+2022-05-23 15:28:30|INFO|train.py[:145]|env model batch 37, loss:2.0118
+2022-05-23 15:28:33|INFO|train.py[:145]|env model batch 38, loss:1.0682
+2022-05-23 15:28:36|INFO|train.py[:145]|env model batch 39, loss:2.2060
+2022-05-23 15:28:39|INFO|train.py[:145]|env model batch 40, loss:2.0364
+2022-05-23 15:28:42|INFO|train.py[:145]|env model batch 41, loss:1.7845
+2022-05-23 15:28:45|INFO|train.py[:145]|env model batch 42, loss:1.5762
+2022-05-23 15:28:48|INFO|train.py[:145]|env model batch 43, loss:2.2888
+2022-05-23 15:28:50|INFO|train.py[:145]|env model batch 44, loss:2.0566
+2022-05-23 15:28:53|INFO|train.py[:145]|env model batch 45, loss:1.5456
+2022-05-23 15:28:56|INFO|train.py[:145]|env model batch 46, loss:1.7231
+2022-05-23 15:28:59|INFO|train.py[:145]|env model batch 47, loss:1.7833
+2022-05-23 15:29:02|INFO|train.py[:145]|env model batch 48, loss:0.9005
+2022-05-23 15:29:04|INFO|train.py[:145]|env model batch 49, loss:1.4244
+2022-05-23 15:29:07|INFO|train.py[:145]|env model batch 50, loss:1.3168
+2022-05-23 15:29:10|INFO|train.py[:145]|env model batch 51, loss:1.2492
+2022-05-23 15:29:13|INFO|train.py[:145]|env model batch 52, loss:1.2438
+2022-05-23 15:29:15|INFO|train.py[:145]|env model batch 53, loss:1.0894
+2022-05-23 15:29:18|INFO|train.py[:145]|env model batch 54, loss:1.3218
+2022-05-23 15:29:21|INFO|train.py[:145]|env model batch 55, loss:1.2008
+2022-05-23 15:29:24|INFO|train.py[:145]|env model batch 56, loss:0.8623
+2022-05-23 15:29:27|INFO|train.py[:145]|env model batch 57, loss:1.5806
+2022-05-23 15:29:30|INFO|train.py[:145]|env model batch 58, loss:0.8089
+2022-05-23 15:29:32|INFO|train.py[:145]|env model batch 59, loss:0.8122
+2022-05-23 15:29:35|INFO|train.py[:145]|env model batch 60, loss:1.3748
+2022-05-23 15:29:38|INFO|train.py[:145]|env model batch 61, loss:1.0782
+2022-05-23 15:29:41|INFO|train.py[:145]|env model batch 62, loss:1.6025
+2022-05-23 15:29:44|INFO|train.py[:145]|env model batch 63, loss:1.7070
+2022-05-23 15:29:44|INFO|train.py[:148]|Env load loss:1.6379
+2022-05-23 15:29:47|INFO|train.py[:116]|epoch 1, batch 11, loss:2.3182
+2022-05-23 15:29:49|INFO|train.py[:116]|epoch 1, batch 12, loss:2.5202
+2022-05-23 15:29:52|INFO|train.py[:116]|epoch 1, batch 13, loss:2.6523
+2022-05-23 15:29:55|INFO|train.py[:116]|epoch 1, batch 14, loss:2.3314
+2022-05-23 15:29:58|INFO|train.py[:116]|epoch 1, batch 15, loss:2.2713
+2022-05-23 15:30:01|INFO|train.py[:116]|epoch 1, batch 16, loss:2.4376
+2022-05-23 15:30:03|INFO|train.py[:116]|epoch 1, batch 17, loss:3.0085
+2022-05-23 15:30:06|INFO|train.py[:116]|epoch 1, batch 18, loss:2.1761
+2022-05-23 15:30:09|INFO|train.py[:116]|epoch 1, batch 19, loss:2.1879
+2022-05-23 15:30:12|INFO|train.py[:116]|epoch 1, batch 20, loss:1.8678
+2022-05-23 15:30:12|INFO|train.py[:134]|Start loading env data ...
+2022-05-23 15:30:14|INFO|train.py[:145]|env model batch 1, loss:1.7163
+2022-05-23 15:30:17|INFO|train.py[:145]|env model batch 2, loss:1.7596
+2022-05-23 16:36:57|INFO|train.py[:60]|Start loading train data ...
+2022-05-23 16:36:57|INFO|train.py[:62]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.000000 s
+2022-05-23 16:36:57|INFO|train.py[:68]|Loading text processor...
+2022-05-23 16:38:07|INFO|train.py[:60]|Start loading train data ...
+2022-05-23 16:38:07|INFO|train.py[:62]|Data loading is complete, inp len 1000, targ len 1000, which takes 0.001017 s
+2022-05-23 16:38:07|INFO|train.py[:68]|Loading text processor...
+2022-05-23 16:38:09|INFO|train.py[:107]|Loading model from ./alphamind
+2022-05-23 16:39:22|INFO|server.py[:70]|Loading model from ./alphamind
+2022-05-23 16:44:00|INFO|server.py[:71]|Loading model from ./alphamind
